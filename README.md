@@ -1,12 +1,7 @@
-- Hey, I'm Daniel.
-- I know a lot about python, a bit of Rust and Cairo.
-- Always interested in contributing to projects.
-- Reach out to me at
-    - Email - danielvincent1718@gmail.com
-    - Discord - dan1718_._
-    - Telegram - @Dan1718_1
+Hello there, I'm Dan. 
 
-<!---
-Dan1718/Dan1718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+The rest of the page is a work in progress. 
