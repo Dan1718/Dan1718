@@ -10,9 +10,8 @@ I'm Dan<br>Looking to contribute to opensource projects<br>Currently learning Lo
 # Have I been doing anything:
 ![](https://github-readme-stats.vercel.app/api?username=Dan1718&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dan1718&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1718&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dan1718&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
