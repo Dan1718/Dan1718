@@ -10,6 +10,7 @@ I'm Dan<br>Looking to contribute to opensource projects<br>Currently learning Lo
 # Have I been doing anything:
 ![](https://github-readme-stats.vercel.app/api?username=Dan1718&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dan1718&theme=onedark&hide_border=false)<br/>
+![Stats](./profile/stats.svg)
 
 
 ---
