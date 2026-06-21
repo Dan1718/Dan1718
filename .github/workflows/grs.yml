@@ -26,4 +26,8 @@ jobs:
           git pull --rebase
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase && git push && break
+            [ "$attempt" -eq 3 ] && exit 1
+            sleep 2
+          done
